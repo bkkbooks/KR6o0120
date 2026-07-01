@@ -1,0 +1,171 @@
+canonical_identifier: bkk:krp/KR6o0120/v1
+canonical_location: https://kanripo.org/bkk/KR6o0120/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 起信論疏記會閱
+  identifiers:
+    alt_id:
+    - X45n0768
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X45/X45n0768.xml
+    old_id: X45n0768
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0120_000.yaml, hash: 'sha256:3059e9a13c8722000a5b72da7b3401169af429e4821b992435ae99d15fc39a54'}
+  - {seq: 1, filename: KR6o0120_001.yaml, hash: 'sha256:2c172c088bea7bece13bcbfebc4752ba7d6e0dd4bc21f2793e74bff9c9649b6e'}
+  - {seq: 2, filename: KR6o0120_002.yaml, hash: 'sha256:240968282210118e02f03f479ff175c5609658405212228c9bf3f956296d5f9b'}
+  - {seq: 3, filename: KR6o0120_003.yaml, hash: 'sha256:1320648ebdbc620778d31a1ad77aa66962791fa280ffd14a29d7b03ea4848b9d'}
+  - {seq: 4, filename: KR6o0120_004.yaml, hash: 'sha256:967170c6ec72993a1ec887cbcdf04c77865d3cf37d37c3545f991f5f315d95e2'}
+  - {seq: 5, filename: KR6o0120_005.yaml, hash: 'sha256:16eda769da607241ba305df39bd36f5a6fd9945ba58c435cd1e72f57ea469d86'}
+  - {seq: 6, filename: KR6o0120_006.yaml, hash: 'sha256:50589258f1b7b4d88e2d876fb11f75c8c3d949e977ad9970cae7c5a68a7ce807'}
+  - {seq: 7, filename: KR6o0120_007.yaml, hash: 'sha256:255e0c8f5b419db25d6b4d34c658437412b7243428faef468635a4928584a38d'}
+  - {seq: 8, filename: KR6o0120_008.yaml, hash: 'sha256:46a8a87e5aa1f57795152b967e45d99c187992a44beb10b6af050513f3314da6'}
+  - {seq: 9, filename: KR6o0120_009.yaml, hash: 'sha256:4b780b5c01b54dceedc6c218840d18bb8f11ecf0c91a5379a529ab212ed060f0'}
+  - {seq: 10, filename: KR6o0120_010.yaml, hash: 'sha256:32866602eec261114662571e4f9fc292a2c14673381c964ff7f257eb58dcd5b4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0120_000.markers.yaml, hash: 'sha256:ed85a08721829f6938f91d5cccfef30724e5984425b50e9223d38458f2aaa169'}
+  - {seq: 1, role: markers, filename: assets/KR6o0120_001.markers.yaml, hash: 'sha256:687267949c10f254aa5b8746c4f5a48495393f2f338bac952651b111e4bf6bd7'}
+  - {seq: 2, role: markers, filename: assets/KR6o0120_002.markers.yaml, hash: 'sha256:ce61c01fc1446ed417d1b4c1711b19757ec31fa41d64fc6bfcd306721f44d0b7'}
+  - {seq: 3, role: markers, filename: assets/KR6o0120_003.markers.yaml, hash: 'sha256:f335b3411df83e6bf7fb2858cdf888042b9ab2c15b43e6a9c8351ae381dedb77'}
+  - {seq: 4, role: markers, filename: assets/KR6o0120_004.markers.yaml, hash: 'sha256:ac2010805c47849682ed9ad4cdde197c7e22db187aa521e1e87ced75c9d4b0d0'}
+  - {seq: 5, role: markers, filename: assets/KR6o0120_005.markers.yaml, hash: 'sha256:0a2097c0e4a741d43616ec8cef066b2f76589c8d219e8edf635831f7e032488d'}
+  - {seq: 6, role: markers, filename: assets/KR6o0120_006.markers.yaml, hash: 'sha256:d7a48a1b820b246d919defa78fb9f117abff123fbcd1376fa4fca1d17c72b91c'}
+  - {seq: 7, role: markers, filename: assets/KR6o0120_007.markers.yaml, hash: 'sha256:055a4f256d7b3572ecc9bce517417e99064bd3e3810ad32775310b03efe2cbbc'}
+  - {seq: 8, role: markers, filename: assets/KR6o0120_008.markers.yaml, hash: 'sha256:1867a9fd636023f2ea2f7d1f7a6d73523db0439e1bfe4d4395fa361e4ee90f0b'}
+  - {seq: 9, role: markers, filename: assets/KR6o0120_009.markers.yaml, hash: 'sha256:168a035a9fc7a463d9286452d3e76d8e937b8ff3aae096f7ada37e6ffe5e8ed8'}
+  - {seq: 10, role: markers, filename: assets/KR6o0120_010.markers.yaml, hash: 'sha256:c98319243ebf6e82f12cbc6ede358f5a3c85cd750100ebde8ca4a7167c7f650c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6o0120_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 768-A 起信論疏記會閱序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6o0120_X_000-mulu-2
+    span:
+    - front
+    - 1022
+    - 1022
+  label: 大乘起信論疏筆削記會閱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0120_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18254
+  label: 大乘起信論疏筆削記會閱卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0120_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 21321
+  label: 大乘起信論疏筆削記會閱卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0120_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 19976
+  label: 大乘起信論疏筆削記會閱卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0120_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 20668
+  label: 大乘起信論疏筆削記會閱卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0120_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 22808
+  label: 大乘起信論疏筆削記會閱卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6o0120_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 25649
+  label: 大乘起信論疏筆削記會閱卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6o0120_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 26411
+  label: 大乘起信論疏筆削記會閱卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6o0120_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 23239
+  label: 大乘起信論疏筆削記會閱卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0120_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 25691
+  label: 大乘起信論疏筆削記會閱卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0120_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 24980
+  label: 大乘起信論疏筆削記會閱卷第十
+  type: juan
+  level: 1
+hash: sha256:cb0c030d5c0071929abf22dbed6b52cde5a3624644edf2cf138b0c3bae286cff
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
