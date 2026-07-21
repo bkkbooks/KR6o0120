@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6o0120_000.yaml, hash: 'sha256:3b5c5ec3325f4cbd77d9b79897230074d290c39c155bf72af3b5b119a302b608'}
+  - {seq: 0, filename: KR6o0120_000.yaml, hash: 'sha256:54cba800e963a6f9a3f237d9256254bdd8329dc609b7a2919a8a7cb4bcddf3c3'}
   - {seq: 1, filename: KR6o0120_001.yaml, hash: 'sha256:40b220d5762e836b4994435914b2bf1061c6d7b080ff88a1acc6964fcfd225ca'}
   - {seq: 2, filename: KR6o0120_002.yaml, hash: 'sha256:280c03650b17faaf3f02c23933ea75dd0dd31dbbbff254e2e4339f6fefbb3887'}
   - {seq: 3, filename: KR6o0120_003.yaml, hash: 'sha256:89125d1b89d4ad32865229134c870a680b8e28a21e2976d7adb26fe29bda3c08'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6o0120_009.yaml, hash: 'sha256:fda4deb914ac5eaf32a6bba9326da16df83dfcf2c76d35e8f7479fc9e01b8919'}
   - {seq: 10, filename: KR6o0120_010.yaml, hash: 'sha256:e5daf5bffab842309a2c3c250ab891b2e9568141a39488c9d4ccd189ca03c2ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0120_000.markers.yaml, hash: 'sha256:3f840419b78b6e5cd2b4136c88d647397ad95d7c962c909848e17a041048a694'}
+  - {seq: 0, role: markers, filename: assets/KR6o0120_000.markers.yaml, hash: 'sha256:1bae96c40c1dd88ca8d60cb001d22c74e1f25ac6fe7f20b69e3ec1bb8091ddf3'}
   - {seq: 1, role: markers, filename: assets/KR6o0120_001.markers.yaml, hash: 'sha256:b9a1d43c5c1e69e06f1e7c191e3f29d391d354e4290166478885406199cf4f35'}
   - {seq: 2, role: markers, filename: assets/KR6o0120_002.markers.yaml, hash: 'sha256:74ee2c0b6ce453f71c912b9fbdaaa1a2cb0cde1be1b4ef86dda5b6a1668df1f2'}
   - {seq: 3, role: markers, filename: assets/KR6o0120_003.markers.yaml, hash: 'sha256:c3889428361b150b6af29ba16e9af168f09b292ec80ac551c8c112964fa519a3'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0120_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 768-A 起信論疏記會閱序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0120_X_000-mulu-2
     span:
-    - front
+    - body
     - 1022
     - 1022
   label: 大乘起信論疏筆削記會閱
@@ -165,7 +165,7 @@ table_of_contents:
   label: 大乘起信論疏筆削記會閱卷第十
   type: juan
   level: 1
-hash: sha256:9e8af6e8478158fd123e540fdfc4eab78ce5b9dcdc51cdca3676d61bbfec6342
+hash: sha256:0bc6f8e1cbc423e8798db27f3f2043e0d540853c2c1a1125d6513a12c60b5cc8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
